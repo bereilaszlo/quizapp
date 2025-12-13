@@ -1,0 +1,57 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Paris is the capital and most populous city of France."
+  },
+  {
+    "questionText": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Mars is often called the 'Red Planet' due to the reddish iron oxide prevalent on its surface."
+  },
+  {
+    "questionText": "What is the largest mammal in the world?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Great White Shark"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The blue whale is the largest animal known to have ever lived."
+  },
+  {
+    "questionText": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "William Shakespeare wrote the tragedy 'Romeo and Juliet' early in his career."
+  },
+  {
+    "questionText": "What is the chemical symbol for Gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Gd"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Au comes from the Latin word for gold, 'aurum'."
+  }
+]
