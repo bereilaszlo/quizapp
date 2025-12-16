@@ -1,5 +1,4 @@
 {
-  "name": "GameAtlas",
-  "description": "An interactive 3D globe visualization powered by Gemini to discover where famous video games were developed.",
-  "requestFramePermissions": []
+  "name": "GenQuiz AI",
+  "description": "An intelligent quiz application that generates custom multiple-choice questions on any topic using the Gemini API."
 }

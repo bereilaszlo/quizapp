@@ -1,70 +1,57 @@
 [
-
   {
-    "questionText": "What is the name of our band?",
+    "questionText": "What is the capital of France?",
     "options": [
-      "The Dewey Decibels",
-      "The Fucking Librarians",
-      "ISBN & The Misprints",
-      "Paperback Thunder"
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Paris is the capital and most populous city of France."
+  },
+  {
+    "questionText": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
     ],
     "correctOptionIndex": 1,
-    "explanation": "I also liked Reference Desk Riot"
-  },
-
-  {
-    "questionText": "In the Mario series, which kingdom does Princess Peach rule?",
-    "options": [
-      "Mushroom Kingdom",
-      "Flower Kingdom",
-      "Koopa Kingdom",
-      "Star Kingdom"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "Princess Peach is the ruler of the Mushroom Kingdom in the Mario franchise."
+    "explanation": "Mars is often called the 'Red Planet' due to the reddish iron oxide prevalent on its surface."
   },
   {
-    "questionText": "Which videogame series features the planet Zebes?",
+    "questionText": "What is the largest mammal in the world?",
     "options": [
-      "Halo",
-      "Metroid",
-      "Mass Effect",
-      "Destiny"
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Great White Shark"
     ],
     "correctOptionIndex": 1,
-    "explanation": "Zebes is a key planet in the Metroid series and home to many of Samus Aran’s missions."
+    "explanation": "The blue whale is the largest animal known to have ever lived."
   },
   {
-    "questionText": "What is the largest playable race in World of Warcraft?",
+    "questionText": "Who wrote 'Romeo and Juliet'?",
     "options": [
-      "Orc",
-      "Tauren",
-      "Draenei",
-      "Pandaren"
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
     ],
     "correctOptionIndex": 1,
-    "explanation": "Tauren are generally considered the largest playable race in World of Warcraft."
+    "explanation": "William Shakespeare wrote the tragedy 'Romeo and Juliet' early in his career."
   },
   {
-    "questionText": "Who is the creator of the Metal Gear Solid series?",
-    "options": [
-      "Shigeru Miyamoto",
-      "Hideo Kojima",
-      "Todd Howard",
-      "Hideki Kamiya"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "Hideo Kojima created and directed the Metal Gear Solid series."
-  },
-  {
-    "questionText": "What is the chemical symbol used for gold rings in The Legend of Zelda series?",
+    "questionText": "What is the chemical symbol for Gold?",
     "options": [
       "Au",
-      "Rupee",
-      "Triforce",
-      "G"
+      "Ag",
+      "Fe",
+      "Gd"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "Rupees are the primary currency in The Legend of Zelda games and are often associated with treasure and value."
+    "correctOptionIndex": 0,
+    "explanation": "Au comes from the Latin word for gold, 'aurum'."
   }
 ]
